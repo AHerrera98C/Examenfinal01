@@ -1,0 +1,10 @@
+C:\Users\alexh\source\repos\ExamenFinal\ExamenFinal\bin\ExamenFinal.dll.config
+C:\Users\alexh\source\repos\ExamenFinal\ExamenFinal\bin\ExamenFinal.dll
+C:\Users\alexh\source\repos\ExamenFinal\ExamenFinal\bin\ExamenFinal.pdb
+C:\Users\alexh\source\repos\ExamenFinal\ExamenFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alexh\source\repos\ExamenFinal\ExamenFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alexh\source\repos\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.csproj.AssemblyReference.cache
+C:\Users\alexh\source\repos\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.csproj.CoreCompileInputs.cache
+C:\Users\alexh\source\repos\ExamenFinal\ExamenFinal\obj\Debug\ExamenFi.8B8FF1BD.Up2Date
+C:\Users\alexh\source\repos\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.dll
+C:\Users\alexh\source\repos\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.pdb
